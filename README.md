@@ -22,7 +22,7 @@ This project aims to recreate the main offer feed of [**The Plug**](https://www.
 
 ## Live Demo
 
-You can visit the [deployed website here](https://indiecodermm.github.io/PlugFeed-React/).
+You can visit the [deployed website here](https://github.com/tanveerisonline/home_take_assignment_1/).
 
 <img src="./image.png" width="280" height="340" />
 
@@ -41,11 +41,12 @@ The main goal was to build the mobile UI for the main feed using JSON data from 
 - Optimize load time ⏳
 - Optimize scroll performance ⏳
 
-*Some features marked with ⏳ couldn't be implemented due to time limitation, but I plan to add them soon*
+_Some features marked with ⏳ couldn't be implemented due to time limitation, but I plan to add them soon_
 
 ## Stack
 
 This project is built with React. The main technologies used are:
+
 - Create React App: To set up the project
 - Fetch API: To get JSON data from API endpoint
 - `prop-types` : Library for validating props during development
@@ -59,8 +60,9 @@ This app follows the following implementation details:
 - **Data Fetching:** The app fetches data from the API when it starts. If the API request is successful, the data is used for rendering the content.
 
 - **Component Structure:** The main components used in the app are:
-  -  `Campaign` component - responsible for displaying each item in the feed
-  -  `Media` component - handle each media object within a campaign item
+
+  - `Campaign` component - responsible for displaying each item in the feed
+  - `Media` component - handle each media object within a campaign item
 
 - **Media Actions:** Each media item within a campaign has two buttons associated with it. One button allows the user to copy the track link, while the other button enables them to download the media content.
 
@@ -73,7 +75,7 @@ To run this project locally, follow the steps below.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone git@github.com:IndieCoderMM/PlugFeed-React.git
+git clone https://github.com/tanveerisonline/home_take_assignment_1
 ```
 
 2. Navigate to the project directory:
@@ -104,11 +106,13 @@ npm start
 - [ ] Pull-to-refresh 🎯
 
 ## License
+
 This project is licensed under the MIT License.
 
 ## Contact
+
 For any questions or feedback, feel free to reach out to me at hthant00chk@gmail.com.
 
 ## Acknowledgments
 
-Special thanks to the JetFuel team for providing this frontend exercise."# home_take_assignment_1" 
+Special thanks to the JetFuel team for providing this frontend exercise."# home_take_assignment_1"
