@@ -24,7 +24,7 @@ This project aims to recreate the main offer feed of [**The Plug**](https://www.
 
 You can visit the [deployed website here](https://github.com/tanveerisonline/home_take_assignment_1/).
 
-<img src="./image.png" width="280" height="340" />
+<img src="./image.png" width="280px" height="340px" />
 
 ## Challenge
 
