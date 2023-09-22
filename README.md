@@ -41,7 +41,7 @@ The main goal was to build the mobile UI for the main feed using JSON data from 
 - Optimize load time ⏳
 - Optimize scroll performance ⏳
 
-_Some features marked with ⏳ couldn't be implemented due to time limitation, but I plan to add them soon_
+_Some features marked with ⏳ couldn't be implemented due to time limitations, but I plan to add them soon_
 
 ## Stack
 
@@ -62,11 +62,11 @@ This app follows the following implementation details:
 - **Component Structure:** The main components used in the app are:
 
   - `Campaign` component - responsible for displaying each item in the feed
-  - `Media` component - handle each media object within a campaign item
+  - `Media` component - handles each media object within a campaign item
 
 - **Media Actions:** Each media item within a campaign has two buttons associated with it. One button allows the user to copy the track link, while the other button enables them to download the media content.
 
-- **Video Playback:** Play button is displayed for video media items. When the play button is clicked, the video is played inline within the app.
+- **Video Playback:** The Play button is displayed for video media items. When the play button is clicked, the video is played inline within the app.
 
 ## Installation
 
